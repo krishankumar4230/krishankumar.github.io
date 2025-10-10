@@ -23,6 +23,11 @@ I believe in open science practices, and hence it is my opinion that linguistic 
 
 My research mainly centers around Sociophonetics, Sociolinguistics and Acoustics. 
 
--   · [Publications](/publications/)
+
+
+## Publications
+
+
+
 
 -   · [CV](/assets/cv.pdf)
