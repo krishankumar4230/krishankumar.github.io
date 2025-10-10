@@ -1,9 +1,5 @@
 Krishan (krɪʃən)
 
-[Email]
+krishanreadings@gmail.com
 
-[Github]
-
-[ORCID]
-
-[CV]
+Research Scholar (Linguistics and Phonetics)
