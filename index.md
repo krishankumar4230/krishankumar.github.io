@@ -6,6 +6,7 @@ Research Scholar (Linguistics and Phonetics)
 
 
 - [About](/about/)
+
 Hi, my name is Krishan. I am a research scholar a The English and Foreign Languages University, Hyderabad.
 
 My academic journey began with a Bachelor's degree in English, with particular focus on English literature. This early engagement with texts and narratives laid the foundation for my curiosity about how language operates not only as a medium of expression but also as a mirror of society and human experience. It led me to pursue a Master's degree in Linguistics from The English and Foreign Languages University, Hyderabad. The research areas that interest me are Acoustic Phonetics, Sociophonetics, and Sociolinguistics. I also take a keen interest in the phenomenon of language contact and change.
@@ -18,4 +19,10 @@ Other than that, I enjoy playing, watching and talking about football, which, pe
 
 I believe in open science practices, and hence it is my opinion that linguistic research should remain accessible to the communities that contribute their voices and stories to it.
 
-- · [Research](/research/) · [Publications](/publications/) · [CV](/assets/cv.pdf)
+- · [Research](/research/)
+
+My research mainly centers around Sociophonetics, Sociolinguistics and Acoustics. 
+
+-   · [Publications](/publications/)
+
+-   · [CV](/assets/cv.pdf)
